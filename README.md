@@ -30,7 +30,7 @@ Os exercícios estão organizados em arquivos individuais na pasta **Exercicios_
 5. Troca de variáveis  
 6. Cálculo de área e perímetro  
 7. Lógica de inversão de números  
-*(Essa lista será atualizada conforme novos exercícios.)*
+*(Essa lista será atualizada conforme novos exercícios realizados.)*
 
 ---
 
