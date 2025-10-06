@@ -1,4 +1,4 @@
-# Python_Progreme_Federal_PE_2°_edição
+# Python Progreme Universidade Federal PE 2°edição
 Repositório com exercícios e projetos do curso Python - Programa Progreme (2ª edição) da Faculdade Federal de Pernambuco (UFPE).
 
 ---
