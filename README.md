@@ -34,15 +34,21 @@ O objetivo é registrar e organizar meus estudos em programação, começando co
 ---
 
 ## 💻 Como Executar
-Para executar os exercícios:  
-1. Clone o repositório:
-```bash
-git clone https://github.com/marialimapy/Python_Progreme_FederalPE_2ed.git
-2. Entre na pasta:
-```bash
-cd Python_Progreme_FederalPE_2ed/Exercicios_Basicos
 
----
+Para executar os exercícios:
+
+1. Clone o repositório:  
+
+```
+git clone https://github.com/marialimapy/Python_Progreme_FederalPE_2ed.git
+```
+
+2. Entre na pasta:  
+
+```
+cd Python_Progreme_FederalPE_2ed/Exercicios_Basicos
+```
+
 
 ## ✨ Observações
 Os exercícios estão organizados em um único notebook para melhor visualização e estudo progressivo. Novos exercícios serão adicionados à medida que eu avance no curso.
